@@ -2,13 +2,12 @@ package com.teksystems;
 
 public class Main {
     public static void main(String[] args) {
-        int seconds = 86398;
-        int p1 = seconds % 60;
-        int p2 = seconds / 60;
-        int p3 = p2 % 60;
-        p2/=60;
-        System.out.printf(p2 + ":" + p3 + ":" + p1);
-        // System.out.print("\n");
+        int p1 = 86399;
+        int second = p1 % 60;
+        int minute = p1 / 60;
+        int hour = minute % 60;
+        minute/=60;
+        System.out.printf(minute + ":" + hour + ":" + second);
     }
 }
 
