@@ -5,8 +5,18 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Practice.practice();
-        ControlFlow.controlFlow();
+        //Practice.practice();
+        //OperNumb.three();
+        //OperNumb.four();
+        //OperNumb.five();
+        //OperNumb.six();
+        //OperNumb.seven();
+        //ControlFlow.controlFlow();
+        //Loops.one();
+        //Loops.two();
+        //Loops.three();
+        //Loops.four();
+        Loops.five();
         //ArrayExercises.drill to function
     }
 }
