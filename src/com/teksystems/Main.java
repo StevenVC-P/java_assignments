@@ -16,7 +16,11 @@ public class Main {
         //Loops.two();
         //Loops.three();
         //Loops.four();
-        Loops.five();
+        //Loops.five();
+        //Loops.six();
+        //Loops.seven();
+        //Loops.eight();
+        Loops.nine();
         //ArrayExercises.drill to function
     }
 }
