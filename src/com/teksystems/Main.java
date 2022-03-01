@@ -20,7 +20,15 @@ public class Main {
         //Loops.six();
         //Loops.seven();
         //Loops.eight();
-        Loops.nine();
+        //Loops.nine();
+        //Variables.one();
+        //Variables.two();
+        //Variables.three();
+        //Variables.four();
+        //Variables.five();
+        //Variables.six();
+        //Variables.seven();
+        Variables.eight();
         //ArrayExercises.drill to function
     }
 }
